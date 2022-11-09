@@ -1,0 +1,24 @@
+.me-2 {
+
+width: 700%;
+
+}
+
+.d-flex {
+
+width: 400px;
+}
+
+.me-auto {
+
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-left: 500px;
+    justify-content: space-evenly;
+}
+
+.cont {
+
+    padding-left: 50px;
+}
